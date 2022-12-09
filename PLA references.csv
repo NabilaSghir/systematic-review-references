@@ -1,0 +1,75 @@
+Publication Year,Author,Title,DOI
+2022,"Mai, T.T.; Bezbradica, M.; Crane, M.",Learning behaviours data in programming education: Community analysis and outcome prediction with cleaned data,10.1016/j.future.2021.08.026
+2022,"Sghir, Nabila; Adadi, Amina; El Mouden, Zakariyaa Ait; Lahmer, Mohammed",Using Learning Analytics to Improve Students' Enrollments in Higher Education,10.1109/IRASET52964.2022.9737993
+2021,"Kabathova, J.; Drlik, M.",Towards predicting student’s dropout in university courses using different machine learning techniques,10.3390/app11073130
+2021,"Jensen, E.; Umada, T.; Hunkins, N.C.; Hutt, S.; Huggins-Manley, A.C.; D'mello, S.K.",What you do predicts how you do: Prospectively modeling student quiz performance using activity features in an online learning environment,10.1145/3448139.3448151
+2021,"Tuononen, T.; Parpala, A.",The role of academic competences and learning processes in predicting Bachelor's and Master's thesis grades,10.1016/j.stueduc.2021.101001
+2021,"El Aouifi, H.; El Hajji, M.; Es-Saady, Y.; Douzi, H.",Predicting learner’s performance through video sequences viewing behavior analysis using educational data-mining,10.1007/s10639-021-10512-4
+2021,"Neha, K.; Sidiq, J.; Zaman, M.",Deep neural network model for identification of predictive variables and evaluation of student’s academic performance,10.18280/ria.350507
+2021,"Ayouni, S.; Hajjej, F.; Maddeh, M.; Al-Otaibi, S.",A new ML-based approach to enhance student engagement in online environment,10.1371/journal.pone.0258788
+2021,"Dass, S.; Gary, K.; Cunningham, J.",Predicting student dropout in self-paced mooc course using random forest model,10.3390/info12110476
+2021,"Afzaal, M.; Nouri, J.; Zia, A.; Papapetrou, P.; Fors, U.; Wu, Y.; Li, X.; Weegar, R.",Explainable AI for Data-Driven Feedback and Intelligent Action Recommendations to Support Students Self-Regulation,10.3389/frai.2021.723447
+2021,"Lincke, A.; Jansen, M.; Milrad, M.; Berge, E.",The performance of some machine learning approaches and a rich context model in student answer prediction,10.1186/s41039-021-00159-7
+2021,"Khan, I.; Ahmad, A.R.; Jabeur, N.; Mahdi, M.N.",An artificial intelligence approach to monitor student performance and devise preventive measures,10.1186/s40561-021-00161-y
+2021,"Karalar, H.; Kapucu, C.; Gürüler, H.",Predicting students at risk of academic failure using ensemble model during pandemic in a distance learning system,10.1186/s41239-021-00300-y
+2021,"Albreiki, B.; Habuza, T.; Shuqfa, Z.; Serhani, M.A.; Zaki, N.; Harous, S.",Customized rule-based model to identify at-risk students and propose rational remedial actions,10.3390/bdcc5040071
+2021,"Adnan, M.; Habib, A.; Ashraf, J.; Mussadiq, S.; Raza, A.A.; Abid, M.; Bashir, M.; Khan, S.U.",Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models,10.1109/ACCESS.2021.3049446
+2021,"Parvathi, M.",Activity based analysis and prediction strategy for the class room performance improvement,10.16920/jeet/2021/v34i0/157167
+2021,"Ekuban, A.B.; Mikroyannidis, A.; Third, A.; Domingue, J.",Using GitLab Interactions to Predict Student Success When Working as Part of a Team,
+2021,"Mansouri, T.; ZareRavasan, A.; Ashrafi, A.",A learning fuzzy cognitive map (LFCM) approach to predict student performance,10.28945/4760
+2021,"Pham, T.N.; Nguyen, G.H.",An investigation of student satisfaction in an online language learning course,10.4018/IJWLTT.20210901.oa7
+2021,"Alturki, S.; Alturki, N.; Stuckenschmidt, H.",Using Educational Data Mining To Predict Students’ Academic Performance For Applying Early Interventions,10.28945/4835
+2021,"Xie, S.-T.; He, Z.-B.; Chen, Q.; Chen, R.-X.; Kong, Q.-Z.; Song, C.-Y.",Predicting Learning Behavior Using Log Data in Blended Teaching,10.1155/2021/4327896
+2021,"Chen, L.-Q.; Wu, M.-T.; Pan, L.-F.; Zheng, R.-B.",Grade Prediction in Blended Learning Using Multisource Data,10.1155/2021/4513610
+2021,"Kostopoulos, G.; Panagiotakopoulos, T.; Kotsiantis, S.; Pierrakeas, C.; Kameas, A.",Interpretable Models for Early Prediction of Certification in MOOCs: A Case Study on a MOOC for Smart City Professionals,10.1109/ACCESS.2021.3134787
+2021,"Rafique, A.; Khan, M.S.; Jamal, M.H.; Tasadduq, M.; Rustam, F.; Lee, E.; Washington, P.B.; Ashraf, I.",Integrating Learning Analytics and Collaborative Learning for Improving Student's Academic Performance,10.1109/ACCESS.2021.3135309
+2021,"Mubarak, Ahmed Ali; Cao, Han; Ahmed, Salah A.M.",Predictive learning analytics using deep learning model in MOOCs’ courses videos,10.1007/s10639-020-10273-6
+2021,"Iatrellis, Omiros; Savvas, Ilias Κ.; Fitsilis, Panos; Gerogiannis, Vassilis C.",A two-phase machine learning approach for predicting student outcomes,10.1007/s10639-020-10260-x
+2021,"Zeineddine, Hassan; Braendle, Udo; Farah, Assaad",Enhancing prediction of student success: Automated machine learning approach,10.1016/j.compeleceng.2020.106903
+2021,"Lu, Owen H. T.; Huang, Anna Y. Q.; Yang, Stephen J. H.",Impact of teachers’ grading policy on the identification of at-risk students in learning analytics,10.1016/j.compedu.2020.104109
+2021,"Hussain, Shah; Khan, Muhammad Qasim",Student-Performulator: Predicting Students’ Academic Performance at Secondary and Intermediate Level Using Machine Learning,10.1007/s40745-021-00341-0
+2021,"Abdullah, A. Sheik; Abirami, R. M.; Gitwina, A.; Varthana, C.",Assessment of Academic Performance with The E-mental Health Interventions in Virtual Learning Environment Using Machine Learning Techniques: A Hybrid Approach,10.16920/jeet/2021/v34i0/157109
+2020,"Goel, Y.; Goyal, R.",On the Effectiveness of Self-Training in MOOC Dropout Prediction,10.1515/comp-2020-0153
+2020,"Adnan, M.; Habib, A.; Ashraf, J.; Shah, B.; Ali, G.",Improving M-Learners' Performance through Deep Learning Techniques by Leveraging Features Weights,10.1109/ACCESS.2020.3007727
+2020,"Adekitan, A.I.; Salau, O.",Toward an improved learning process: the relevance of ethnicity to data mining prediction of students’ performance,10.1007/s42452-019-1752-1
+2020,"Prada, M.A.; Dominguez, M.; Vicario, J.L.; Alves, P.A.V.; Barbu, M.; Podpora, M.; Spagnolini, U.; Pereira, M.J.V.; Vilanova, R.",Educational Data Mining for Tutoring Support in Higher Education: A Web-Based Tool Case Study in Engineering Degrees,10.1109/ACCESS.2020.3040858
+2020,"Alshanqiti, A.; Namoun, A.",Predicting student performance and its influential factors using hybrid regression and multi-label classification,10.1109/ACCESS.2020.3036572
+2020,"Chen, Z.; Zhang, J.; Jiang, X.; Hu, Z.; Han, X.; Xu, M.; Savitha, V.; Vivekananda, G.N.",Education 4.0 using artificial intelligence for students performance analysis,10.4114/intartif.vol23iss66pp124-137
+2020,"Waheed, H.; Hassan, S.-U.; Aljohani, N.R.; Hardman, J.; Alelyani, S.; Nawaz, R.",Predicting academic performance of students from VLE big data using deep learning models,10.1016/j.chb.2019.106189
+2020,"Manzanares, M.C.S.; Llamazares, M.C.E.; González, Á.A.",Effectiveness of blended learning in nursing education,10.3390/ijerph17051589
+2020,"Hasan, R.; Palaniappan, S.; Mahmood, S.; Abbas, A.; Sarker, K.U.; Sattar, M.U.",Predicting student performance in higher educational institutions using video learning analytics and data mining techniques,10.3390/app10113894
+2020,"Bañeres, D.; Rodríguez, M.E.; Guerrero-Roldán, A.E.; Karadeniz, A.",An early warning system to detect at-risk students in online higher education,10.3390/app10134427
+2020,"Omer, U.; Farooq, M.S.; Abid, A.",Cognitive learning analytics using assessment data and concept map: A framework-based approach for sustainability of programming courses,10.3390/su12176990
+2020,"Chen, F.; Cui, Y.",Utilizing student time series behaviour in learning management systems for early prediction of course performance,10.18608/JLA.2020.72.1
+2020,"Heilala, V.; Saarela, M.; Jaaskela, P.; Karkkainen, T.",Course Satisfaction in Engineering Education through the Lens of Student Agency Analytics,10.1109/FIE44824.2020.9274141
+2020,"Dias, S.B.; Hadjileontiadou, S.J.; Diniz, J.; Hadjileontiadis, L.J.",DeepLMS: a deep learning predictive model for supporting online learning in the Covid-19 era,10.1038/s41598-020-76740-9
+2020,"Wang, Zichao; Gu, Yi; Lan, Andrew; Baraniuk, Richard",VarFA: A Variational Factor Analysis Framework For Efficient Bayesian Learning Analytics,
+2020,"Emerson, Andrew; Cloude, Elizabeth B.; Azevedo, Roger; Lester, James",Multimodal learning analytics for game-based learning,10.1111/bjet.12992
+2020,"Hew, Khe Foon; Hu, Xiang; Qiao, Chen; Tang, Ying",What predicts student satisfaction with MOOCs: A gradient boosting trees supervised machine learning and sentiment analysis approach,10.1016/j.compedu.2019.103724
+2020,"Chui, Kwok Tai; Fung, Dennis Chun Lok; Lytras, Miltiadis D.; Lam, Tin Miu",Predicting at-risk university students in a virtual learning environment via a machine learning algorithm,10.1016/j.chb.2018.06.032
+2019,"Hsu Wang, F.",On prediction of online behaviors and achievement using self-regulated learning awareness in flipped classrooms,10.18178/ijiet.2019.9.12.1320
+2019,"Macarini, L.A.B.; Cechinel, C.; Machado, M.F.B.; Ramos, V.F.C.; Munoz, R.",Predicting students success in blended learning-Evaluating different interactions inside learning management systems,10.3390/app9245523
+2019,"Almasri, A.; Celebi, E.; Alkhawaldeh, R.S.",EMT: Ensemble meta-based tree model for predicting student performance,10.1155/2019/3610248
+2019,"Hussain, S.; Muhsin, Z.F.; Salal, Y.K.; Theodorou, P.; Kurtoğlu, F.; Hazarika, G.C.",Prediction model on student performance based on internal assessment using deep learning,10.3991/ijet.v14i08.10001
+2019,"Guerrero-Higueras, A.M.; Decastro-García, N.; Rodriguez-Lera, F.J.; Matellán, V.; Conde, M.Á.",Predicting academic success through students' interaction with Version Control Systems,10.1515/comp-2019-0012
+2019,"Cutad, R.E.E.; Gerardo, B.D.",A prediction-based curriculum analysis using the modified artificial Bee Colony Algorithm,10.14569/ijacsa.2019.0101017
+2019,"Gray, C.C.; Perkins, D.",Utilizing early engagement and machine learning to predict student outcomes,10.1016/j.compedu.2018.12.006
+2019,"Hasan, R.; Palaniappan, S.; Mahmood, S.; Shah, B.; Abbas, A.; Sarker, K.U.",Enhancing the teaching and learning process using video streaming servers and forecasting techniques,10.3390/su11072049
+2019,"Gitinabard, N.; Xu, Y.; Heckman, S.; Barnes, T.; Lynch, C.F.",How Widely Can Prediction Models Be Generalized? Performance Prediction in Blended Courses,10.1109/TLT.2019.2911832
+2019,"Albalooshi, F.; AlObaidy, H.; Ghanim, A.",Mining students outcomes: An empirical study,10.12785/ijcds/080303
+2019,"Shayan, P.; van Zaanen, M.",Predicting student performance from their behavior in learning management systems,10.18178/ijiet.2019.9.5.1223
+2019,"Yu, C.-H.; Wu, J.; Liu, A.-C.",Predicting learning outcomes with MOOC clickstreams,10.3390/educsci9020104
+2019,"Moreno-Marcos, P.M.; Laet, T.D.; Muñoz-Merino, P.J.; Van Soom, C.; Broos, T.; Verbert, K.; Kloos, C.D.",Generalizing predictive models of admission test success based on online interactions,10.3390/su11184940
+2019,"Herodotou, C.; Hlosta, M.; Boroowa, A.; Rienties, B.; Zdrahal, Z.; Mangafa, C.",Empowering online teachers through predictive learning analytics,10.1111/bjet.12853
+2019,"Sharma, K.; Papamitsiou, Z.; Giannakos, M.",Building pipelines for educational data using AI and multimodal analytics: A “grey-box” approach,10.1111/bjet.12854
+2018,"Yang, S.J.H.; Lu, O.H.T.; Huang, A.Y.-Q.; Huang, J.C.-H.; Ogata, H.; Lin, A.J.Q.",Predicting students’ academic performance using multiple linear regression and principal component analysis,10.2197/ipsjjip.26.170
+2018,"Hussain, M.; Zhu, W.; Zhang, W.; Abidi, S.M.R.",Student Engagement Predictions in an e-Learning System and Their Impact on Student Course Assessment Scores,10.1155/2018/6347186
+2018,"Zacharis, N.Z.",Classification and regression trees (CART) for predictive modeling in blended learning,10.5815/ijisa.2018.03.01
+2018,"Boulton, C.A.; Kent, C.; Williams, H.T.P.",Virtual learning environment engagement and learning outcomes at a ‘bricks-and-mortar’ university,10.1016/j.compedu.2018.06.031
+2018,"Li, H.; Flanagan, B.; Konomi, S.; Ogata, H.",Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses,10.1186/s41039-018-0087-7
+2018,"Spikol, Daniel; Ruffaldi, Emanuele; Dabisias, Giacomo; Cukurova, Mutlu",Supervised machine learning in multimodal learning analytics for estimating success in project-based learning,10.1111/jcal.12263
+2018,"Lu, Owen H. T.; Huang, Anna Y. Q.; Huang, Jeff C.H.; Lin, Albert J. Q.; Ogata, Hiroaki; Yang, Stephen J. H.",Applying Learning Analytics for the Early Prediction of Students' Academic Performance in Blended Learning,
+2017,"Al-Shabandar, R.; Hussain, A.; Laws, A.; Keight, R.; Lunn, J.; Radi, N.",Machine learning approaches to predict learning outcomes in Massive open online courses,10.1109/IJCNN.2017.7965922
+2017,"Cerezo, R.; Esteban, M.; Sánchez-Santillán, M.; Núñez, J.C.",Procrastinating behavior in computer-based learning environments to predict performance: A case study in Moodle,10.3389/fpsyg.2017.01403
+2016,"Villagrá-Arnedo, C.; Gallego-Duran, F.J.; Compan-Rosique, P.; Llorens-Largo, F.; Molina-Carmona, R.",Predicting academic performance from Behavioural and learning data,10.2495/DNE-V11-N3-239-249
+2015,"Joksimović, S.; Gašević, D.; Kovanović, V.; Riecke, B.E.; Hatala, M.",Social presence in online discussions as a process predictor of academic performance,10.1111/jcal.12107
